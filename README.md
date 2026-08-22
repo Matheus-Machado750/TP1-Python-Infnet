@@ -57,7 +57,7 @@ Infnet-Python-TP1-DR2/
 
 ## 📃 Observações
 
-Os exercícios presentes neste repositório foram desenvolvidos como parte das atividades acadêmicas da disciplina Introdução à Programação com Python.
+Os exercícios presentes neste repositório foram desenvolvidos como parte das atividades acadêmicas da disciplina **Introdução à Programação com Python**.
 
 As soluções refletem os conhecimentos adquiridos até o momento da realização do TP1 e foram construídas com foco na aplicação correta dos conceitos estudados durante a disciplina, respeitando o nível de complexidade esperado para esta etapa da formação.
 
