@@ -24,8 +24,6 @@ Durante a realização das atividades foram aplicados conceitos como:
 * interpretação de requisitos;
 * resolução estruturada de problemas.
 
-Além do aprendizado técnico da linguagem, os exercícios foram projetados para estimular a capacidade de análise, raciocínio lógico e desenvolvimento de soluções computacionais para situações do cotidiano profissional.
-
 ---
 
 ## Estrutura do Repositório
