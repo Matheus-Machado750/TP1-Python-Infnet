@@ -2,7 +2,7 @@
 
 Este repositório contém a resolução dos exercícios do **Teste de Performance 1 (TP1)** da disciplina **Introdução à Programação com Python** (Disciplina Regular 2), ministrada no curso de graduação em Análise e Desenvolvimento de Sistemas do **Instituto INFNET**.
 
-Os Testes de Performance (TPs) fazem parte do modelo de avaliação da instituição e possuem caráter obrigatório dentro da disciplina. Seu objetivo é permitir que o aluno coloque em prática os conceitos trabalhados em aula por meio da resolução de problemas inspirados em cenários reais de diferentes áreas.
+Os Testes de Performance (TPs) fazem parte do modelo de avaliação da instituição e possuem caráter obrigatório dentro da disciplina. Seu principal objetivo é proporcionar a aplicação prática dos conteúdos estudados em aula por meio da resolução de problemas contextualizados em cenários profissionais, estimulando o desenvolvimento do raciocínio lógico e da capacidade de construção de soluções computacionais.
 
 ---
 ## 📖 Sobre o TP1
@@ -59,6 +59,6 @@ TP1-Python-Infnet/
 
 Os exercícios presentes neste repositório foram desenvolvidos como parte das atividades acadêmicas da disciplina Introdução à Programação com Python.
 
-As soluções refletem os conhecimentos e práticas estudados durante o período da realização do TP1, priorizando clareza, legibilidade e aplicação correta dos conceitos abordados até aquele momento da formação.
+As soluções refletem os conhecimentos adquiridos até o momento da realização do TP2 e foram construídas com foco na aplicação correta dos conceitos estudados durante a disciplina, respeitando o nível de complexidade esperado para esta etapa da formação.
 
-Este material possui finalidade educacional e registra uma etapa do meu processo de aprendizagem em programação e desenvolvimento de software.
+Este material possui finalidade educacional e representa uma etapa da minha evolução no aprendizado de programação, registrando o desenvolvimento gradual de habilidades em lógica computacional, algoritmos e desenvolvimento de software utilizando Python.
