@@ -1,6 +1,6 @@
 # TP1 Python | INFNET
 
-Este repositório contém a resolução dos exercícios do **Teste de Performance 1 (TP1)** da disciplina **Introdução à Programação com Python**, ministrada no curso de graduação em Análise e Desenvolvimento de Sistemas do **Instituto INFNET**.
+Este repositório contém a resolução dos exercícios do **Teste de Performance 1 (TP1)** da disciplina **Introdução à Programação com Python** (Disciplina Regular 2), ministrada no curso de graduação em Análise e Desenvolvimento de Sistemas do **Instituto INFNET**.
 
 Os Testes de Performance (TPs) fazem parte do modelo de avaliação da instituição e possuem caráter obrigatório dentro da disciplina. Seu objetivo é permitir que o aluno coloque em prática os conceitos trabalhados em aula por meio da resolução de problemas inspirados em cenários reais de diferentes áreas.
 
@@ -28,7 +28,7 @@ Além do aprendizado técnico da linguagem, os exercícios foram projetados para
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```plaintext
 TP1-Python-Infnet/
