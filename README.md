@@ -31,7 +31,7 @@ Além do aprendizado técnico da linguagem, os exercícios foram projetados para
 ## Estrutura do Repositório
 
 ```plaintext
-TP1-Python-Infnet/
+Infnet-Python-TP1-DR2/
 │
 ├── exercicio01.py
 ├── exercicio02.py
@@ -59,6 +59,6 @@ TP1-Python-Infnet/
 
 Os exercícios presentes neste repositório foram desenvolvidos como parte das atividades acadêmicas da disciplina Introdução à Programação com Python.
 
-As soluções refletem os conhecimentos adquiridos até o momento da realização do TP2 e foram construídas com foco na aplicação correta dos conceitos estudados durante a disciplina, respeitando o nível de complexidade esperado para esta etapa da formação.
+As soluções refletem os conhecimentos adquiridos até o momento da realização do TP1 e foram construídas com foco na aplicação correta dos conceitos estudados durante a disciplina, respeitando o nível de complexidade esperado para esta etapa da formação.
 
 Este material possui finalidade educacional e representa uma etapa da minha evolução no aprendizado de programação, registrando o desenvolvimento gradual de habilidades em lógica computacional, algoritmos e desenvolvimento de software utilizando Python.
